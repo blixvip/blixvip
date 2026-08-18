@@ -4,11 +4,11 @@
 
 Small tools I build to solve real workflow problems.
 
-1. 📺 **[Watch Better](https://github.com/wasely/watch-better)** - My main project. A YouTube transcript navigator with transcript-grounded ChatGPT and Gemini workflows.
-2. 🧩 [Extension Manager](https://github.com/wasely/extension-manager) - Persistent Chrome side panel for finding, controlling, and reloading extensions under development.
-3. 📡 [AI Broadcaster](https://github.com/wasely/ai-broadcaster) - Broadcast one prompt or image to multiple free-tier AI chats at once.
-4. 🤖 [Discord YouTuber Tracker](https://github.com/wasely/discord-youtuber-tracker) - Discord bot that watches YouTube creators and organizes new uploads by channel.
-5. 🧠 [Skills](https://github.com/wasely/skills) - Reusable Codex and agent skills for native AFFiNE automation and production UI work.
+1. 📺 **[Watch Better](https://github.com/blixvip/watch-better)** - My main project. A YouTube transcript navigator with transcript-grounded ChatGPT and Gemini workflows.
+2. 🧩 [Extension Manager](https://github.com/blixvip/extension-manager) - Persistent Chrome side panel for finding, controlling, and reloading extensions under development.
+3. 📡 [AI Broadcaster](https://github.com/blixvip/ai-broadcaster) - Broadcast one prompt or image to multiple free-tier AI chats at once.
+4. 🤖 [Discord YouTuber Tracker](https://github.com/blixvip/discord-youtube-tracker) - Discord bot that watches YouTube creators and organizes new uploads by channel.
+5. 🧠 [Skills](https://github.com/blixvip/skills) - Reusable Codex and agent skills for native AFFiNE automation and production UI work.
 
 ## In the Workshop
 
