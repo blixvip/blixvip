@@ -18,7 +18,6 @@ Private projects being finished and polished.
 - 📊 **AI Usage** - Windows tray utility for checking Claude Code and Codex usage limits across profiles.
 - 🎞️ **Null Motion** - Motion-graphics generation, review, repair, and Premiere Pro insertion workflow.
 - 🗃️ **X Media Archive** - Local searchable gallery for downloaded X profile images and videos.
-- ✍️ **X Master** - Database-backed writing workspace that learns from saved examples to help draft posts and replies.
 
 ## About Me
 
