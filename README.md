@@ -1,8 +1,8 @@
-# Kaihan Wasely
+# Hi, I'm Kaihan Wasely 👋
 
 I build local-first AI tools, browser extensions, and creator workflows. Based in Canada.
 
-[Email](mailto:kaihanwasely@gmail.com) · [Buy me a coffee](https://buymeacoffee.com/blix)
+[Email](mailto:kaihanwasely@gmail.com) · [X / Twitter](https://x.com/waselyy) · [MotionClone](https://motionclone.lol) · [Buy me a coffee](https://buymeacoffee.com/blix)
 
 ## Projects
 
