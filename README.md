@@ -1,27 +1,29 @@
 # Kaihan Wasely
 
+I build local-first AI tools, browser extensions, and creator workflows. Based in Canada.
+
+[Email](mailto:kaihanwasely@gmail.com) · [Buy me a coffee](https://buymeacoffee.com/blix)
+
 ## Projects
 
-Small tools I build to solve real workflow problems.
-
-1. 📺 **[Watch Better](https://github.com/blixvip/watch-better)** - My main project. A YouTube transcript navigator with transcript-grounded ChatGPT and Gemini workflows.
-2. 🧩 [Extension Manager](https://github.com/blixvip/extension-manager) - Persistent Chrome side panel for finding, controlling, and reloading extensions under development.
-3. 📡 [AI Broadcaster](https://github.com/blixvip/ai-broadcaster) - Broadcast one prompt or image to multiple free-tier AI chats at once.
-4. 🤖 [Discord YouTuber Tracker](https://github.com/blixvip/discord-youtube-tracker) - Discord bot that watches YouTube creators and organizes new uploads by channel.
-5. 🧠 [Skills](https://github.com/blixvip/skills) - Reusable Codex and agent skills for native AFFiNE automation and production UI work.
+- 🎬 **[MotionClone](https://github.com/blixvip/MotionClone)** — Rebuild reference videos as editable motion projects. [Join the waitlist](https://motionclone.lol).
+- 📡 **[AI Broadcaster](https://github.com/blixvip/ai-broadcaster)** — Send one prompt, image, or PDF to multiple AI chats.
+- 🗃️ **[X Media](https://github.com/blixvip/x-media)** — Browse public X videos, photos, and GIFs in a local workspace, without an API key.
+- 🧠 **[Skills](https://github.com/blixvip/skills)** — Reusable skills for Codex and other agents.
 
 ## In the Workshop
 
 Private projects being finished and polished.
 
+- 📺 **Watch Better** — YouTube caption briefings, searchable transcripts, ChatGPT and Gemini workflows, and Smart Skip.
 - 🎬 **Script Gen** - Creator workspace for research, scripting, source shots, B-roll, assets, logos, and thumbnail packaging.
 - 📊 **AI Usage** - Windows tray utility for checking Claude Code and Codex usage limits across profiles.
 - 🎞️ **Null Motion** - Motion-graphics generation, review, repair, and Premiere Pro insertion workflow.
-- 🗃️ **X Media Archive** - Local searchable gallery for downloaded X profile images and videos.
+- 🧩 **Extension Manager** — Chrome side panel for managing and reloading extensions under development.
+- 🤖 **Discord YouTuber Tracker** — Track YouTube creators and organize new uploads by channel.
 
-## About Me
+## Contact
 
-I build local-first AI tools, browser extensions, and creator workflows.
-
-- 🌍 Canada
 - ✉️ [kaihanwasely@gmail.com](mailto:kaihanwasely@gmail.com)
+- ✉️ [kaiguy432@gmail.com](mailto:kaiguy432@gmail.com)
+- ☕ [Buy me a coffee](https://buymeacoffee.com/blix)
