@@ -1,45 +1,61 @@
-# Hi, I'm Kaihan Wasely 👋
+<p>
+  <img src="assets/header.png" width="100%" alt="Kaihan Wasely. Local-first AI tools, browser extensions, and creator workflows. Canada.">
+</p>
 
-I build local-first AI tools, browser extensions, and creator workflows. Based in Canada.
+<p>
+  <a href="mailto:kaihanwasely@gmail.com">kaihanwasely@gmail.com</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:kaiguy432@gmail.com">kaiguy432@gmail.com</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://x.com/waselyyy">X</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://motionclone.lol">motionclone.lol</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://buymeacoffee.com/blix">Buy me a coffee</a>
+</p>
 
-[Email](mailto:kaihanwasely@gmail.com) · [X / Twitter](https://x.com/waselyyy) · [MotionClone](https://motionclone.lol) · [Buy me a coffee](https://buymeacoffee.com/blix)
+## Selected work
 
-## Featured
+<a href="https://github.com/blixvip/NullMotion">
+  <img src="assets/null-card.jpg" width="100%" alt="Null Motion: a finished ad above the HyperFrames drafts it grew from, with the current draft outlined">
+</a>
+
+**[Null Motion](https://github.com/blixvip/NullMotion)** — A finished motion-graphics ad plays over the simple black-and-white HyperFrames drafts it grew from, in sync, with one-click MP4 export.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/blixvip/NullMotion"><img src="https://raw.githubusercontent.com/blixvip/NullMotion/main/docs/demo-infinite.gif" alt="Null Motion: a finished ad over the drafts it grew from" width="100%"></a>
-      <p><b><a href="https://github.com/blixvip/NullMotion">Null Motion</a></b>: a finished motion-graphics ad over the simple black-and-white HyperFrames drafts it grew from, all in sync, with one-click MP4 export.</p>
+      <a href="https://github.com/blixvip/MotionClone"><img src="assets/motionclone-card.png" width="100%" alt="MotionClone. Love the motion? Rebuild it."></a>
+      <br><br>
+      <b><a href="https://github.com/blixvip/MotionClone">MotionClone</a></b> — Rebuild a reference video into an editable HyperFrames project with Codex and ChatGPT. Compare it, export a video, and keep the project. <a href="https://motionclone.lol">Online studio</a>.
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/blixvip/easyedit"><img src="https://raw.githubusercontent.com/blixvip/easyedit/main/docs/social-preview.png" alt="easyedit: type a movie, get a captioned speech + beat-cut fan edit" width="100%"></a>
-      <p><b><a href="https://github.com/blixvip/easyedit">easyedit</a></b>: type a movie name and get a finished fan edit, with the film's best speech in animated captions and then a montage cut to the beat. Runs locally with no API keys.</p>
+      <a href="https://github.com/blixvip/easyedit"><img src="https://raw.githubusercontent.com/blixvip/easyedit/main/docs/social-preview.png" width="100%" alt="easyedit. Type a movie, get a captioned speech and beat-cut fan edit."></a>
+      <br><br>
+      <b><a href="https://github.com/blixvip/easyedit">easyedit</a></b> — Type a movie name and get a fan edit: the film's best speech in animated captions, then a montage cut to the beat. Local-first, no API keys. Works with Claude Code and Codex.
     </td>
   </tr>
 </table>
 
-## Projects
+## Other tools
 
-- 🎞️ **[Null Motion](https://github.com/blixvip/NullMotion)** — A finished ad over its HyperFrames drafts, with frame-accurate MP4 export.
-- ✂️ **[easyedit](https://github.com/blixvip/easyedit)** — Movie name → captioned speech + beat-cut fan edit. Works with Claude Code and Codex.
-- 🎬 **[MotionClone](https://github.com/blixvip/MotionClone)** — Rebuild reference videos as editable motion projects. [Join the waitlist](https://motionclone.lol).
-- 📡 **[AI Broadcaster](https://github.com/blixvip/ai-broadcaster)** — Send one prompt, image, or PDF to multiple AI chats.
-- 🗃️ **[X Media](https://github.com/blixvip/x-media)** — Browse public X videos, photos, and GIFs in a local workspace, without an API key.
-- 🧠 **[Skills](https://github.com/blixvip/skills)** — Reusable skills for Codex and other agents.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b><a href="https://github.com/blixvip/ai-broadcaster">AI Broadcaster</a></b><br>
+      A Chrome extension that sends one prompt, image, or PDF to many AI chats and checks that each one received it.
+    </td>
+    <td width="33%" valign="top">
+      <b><a href="https://github.com/blixvip/x-media">X Media</a></b><br>
+      A local workspace for public X videos, photos, GIFs, and tweets, plus Reddit memes. No API key.
+    </td>
+    <td width="33%" valign="top">
+      <b><a href="https://github.com/blixvip/skills">Skills</a></b><br>
+      Agent skills for Codex and Claude Code, including motion graphics, thumbnails, and UI work.
+    </td>
+  </tr>
+</table>
 
-## In the Workshop
+## On the bench
 
-Private projects being finished and polished.
-
-- 📺 **Watch Better** — YouTube caption briefings, searchable transcripts, ChatGPT and Gemini workflows, and Smart Skip.
-- 📝 **Script Gen** — Creator workspace for research, scripting, source shots, B-roll, assets, logos, and thumbnail packaging.
-- 📊 **AI Usage** — Windows tray utility for checking Claude Code and Codex usage limits across profiles.
-- 🧩 **Extension Manager** — Chrome side panel for managing and reloading extensions under development.
-- 🤖 **Discord YouTuber Tracker** — Track YouTube creators and organize new uploads by channel.
-
-## Contact
-
-- ✉️ [kaihanwasely@gmail.com](mailto:kaihanwasely@gmail.com)
-- ✉️ [kaiguy432@gmail.com](mailto:kaiguy432@gmail.com)
-- ☕ [Buy me a coffee](https://buymeacoffee.com/blix)
+Private work still in progress: Watch Better, Script Gen, AI Usage, Extension Manager, and a Discord YouTuber tracker.
