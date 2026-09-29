@@ -54,6 +54,14 @@
       Agent skills for Codex and Claude Code, including motion graphics, thumbnails, and UI work.
     </td>
   </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <b><a href="https://github.com/blixvip/html-anime">html-anime</a></b><br>
+      Prompt an anime. A shot-sheet harness and skills so Claude, Codex, Cursor, or Grok can draw it in HTML. <a href="https://blixvip.github.io/html-anime/">Site</a>.
+    </td>
+    <td width="33%" valign="top"></td>
+    <td width="33%" valign="top"></td>
+  </tr>
 </table>
 
 ## On the bench
