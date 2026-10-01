@@ -14,6 +14,11 @@
   <a href="https://buymeacoffee.com/blix">Buy me a coffee</a>
 </p>
 
+<p>
+  <a href="https://discord.gg/zEB4VjmfSb"><img src="https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a><br>
+  💬 <a href="https://discord.gg/zEB4VjmfSb">Join the Discord</a> for questions, help, and updates.
+</p>
+
 ## Selected work
 
 <a href="https://github.com/blixvip/NullMotion">
