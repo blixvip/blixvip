@@ -1,0 +1,48 @@
+{
+  "NullMotion": {
+    "title": "Null Motion",
+    "shot": "assets/nullmotion.jpg",
+    "blurb": "Plays a finished motion-graphics ad in sync with the rough HyperFrames drafts it grew from, so the work between them is visible. Exports the breakdown as one MP4."
+  },
+  "MotionClone": {
+    "title": "MotionClone",
+    "shot": "assets/motionclone.jpg",
+    "blurb": "Point it at a reference video and it rebuilds the piece as an editable HyperFrames project, then plays the rebuild against the original so you can see where the timing drifts."
+  },
+  "easyedit": {
+    "title": "easyedit",
+    "shot": "assets/easyedit.jpg",
+    "blurb": "Type a movie name, get a fan edit: the film's best speech in animated captions, then a montage cut to the beat. Whisper for transcription, onset detection for the cuts."
+  },
+  "html-anime": {
+    "title": "html-anime",
+    "shot": "assets/html-anime.jpg",
+    "blurb": "Turns a scene prompt into a shot sheet, then has a coding agent draw the film in HTML and CSS. No video model — the frame above is code."
+  },
+  "blixtrade": {
+    "title": "blixtrade",
+    "shot": "assets/blixtrade.jpg",
+    "blurb": "Solana memecoin terminal: live pump.fun feed, holder ledgers that separate snipers from bundles, real Jupiter quotes. Ships a public read API and an MCP server."
+  },
+  "phonectl": {
+    "title": "phonectl",
+    "shot": "assets/phonectl.jpg",
+    "blurb": "Drives an Android phone from your computer over adb and scrcpy: browser dashboard, CLI, and a build → screenshot → verify loop for agents."
+  },
+  "skills": {
+    "title": "skills",
+    "blurb": "The agent skills I use daily, as drop-in SKILL.md folders for Claude Code and Codex.",
+    "shot": "assets/skills.jpg"
+  },
+  "x-media": {
+    "title": "X Media",
+    "blurb": "Browse public X media and tweets by username in a local Next.js app. No login, no API key."
+  },
+  "ai-broadcaster": {
+    "title": "AI Broadcaster",
+    "blurb": "Chrome extension that sends one prompt, image, or PDF to several AI chats at once and verifies each one received it."
+  },
+  "ai-broadcaster-privacy": {
+    "hidden": true
+  }
+}

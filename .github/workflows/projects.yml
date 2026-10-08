@@ -1,0 +1,43 @@
+name: Refresh project grid
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - scripts/**
+      - .github/workflows/projects.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-projects
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Rebuild the grid from current star counts
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/build-readme.mjs
+
+      - name: Commit if the ranking moved
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "ranking unchanged"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Refresh project grid" -- README.md
+          git push
