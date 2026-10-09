@@ -8,13 +8,13 @@
 <a href="https://github.com/blixvip/NullMotion"><img src="assets/nullmotion.jpg" width="100%" alt="Null Motion"></a>
 <h3><a href="https://github.com/blixvip/NullMotion">Null Motion</a></h3>
 <p>Plays a finished motion-graphics ad in sync with the rough HyperFrames drafts it grew from, so the work between them is visible. Exports the breakdown as one MP4.</p>
-<p><sub>★ 932 &nbsp;·&nbsp; <a href="https://www.nullmotion.com/">nullmotion.com</a></sub></p>
+<p><sub>★ 943 &nbsp;·&nbsp; <a href="https://www.nullmotion.com/">nullmotion.com</a></sub></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/blixvip/MotionClone"><img src="assets/motionclone.jpg" width="100%" alt="MotionClone"></a>
 <h3><a href="https://github.com/blixvip/MotionClone">MotionClone</a></h3>
 <p>Point it at a reference video and it rebuilds the piece as an editable HyperFrames project, then plays the rebuild against the original so you can see where the timing drifts.</p>
-<p><sub>★ 358 &nbsp;·&nbsp; <a href="https://motionclone.lol">motionclone.lol</a></sub></p>
+<p><sub>★ 359 &nbsp;·&nbsp; <a href="https://motionclone.lol">motionclone.lol</a></sub></p>
 </td>
 </tr>
 <tr>
@@ -50,8 +50,9 @@
 ### Also
 
 - **[X Media](https://github.com/blixvip/x-media)** — Browse public X media and tweets by username in a local Next.js app. No login, no API key.
-- **[AI Broadcaster](https://github.com/blixvip/ai-broadcaster)** — Chrome extension that sends one prompt, image, or PDF to several AI chats at once and verifies each one received it.
+- **[trading-ui](https://github.com/blixvip/trading-ui)** — The trading layer for shadcn/ui: candlestick and depth charts, order book, DOM ladder, time and sales, order ticket, positions and blotter. Radix primitives, Tailwind tokens, copy-paste registry.
 - **[phonectl](https://github.com/blixvip/phonectl)** — Drives an Android phone from your computer over adb and scrcpy: browser dashboard, CLI, and a build → screenshot → verify loop for agents.
+- **[AI Broadcaster](https://github.com/blixvip/ai-broadcaster)** — Chrome extension that sends one prompt, image, or PDF to several AI chats at once and verifies each one received it.
 
 <!-- projects:end -->
 
