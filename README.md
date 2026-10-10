@@ -8,13 +8,13 @@
 <a href="https://github.com/blixvip/NullMotion"><img src="assets/nullmotion.jpg" width="100%" alt="Null Motion"></a>
 <h3><a href="https://github.com/blixvip/NullMotion">Null Motion</a></h3>
 <p>Plays a finished motion-graphics ad in sync with the rough HyperFrames drafts it grew from, so the work between them is visible. Exports the breakdown as one MP4.</p>
-<p><sub>★ 943 &nbsp;·&nbsp; <a href="https://www.nullmotion.com/">nullmotion.com</a></sub></p>
+<p><sub>★ 955 &nbsp;·&nbsp; <a href="https://www.nullmotion.com/">nullmotion.com</a></sub></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/blixvip/MotionClone"><img src="assets/motionclone.jpg" width="100%" alt="MotionClone"></a>
 <h3><a href="https://github.com/blixvip/MotionClone">MotionClone</a></h3>
 <p>Point it at a reference video and it rebuilds the piece as an editable HyperFrames project, then plays the rebuild against the original so you can see where the timing drifts.</p>
-<p><sub>★ 359 &nbsp;·&nbsp; <a href="https://motionclone.lol">motionclone.lol</a></sub></p>
+<p><sub>★ 360 &nbsp;·&nbsp; <a href="https://motionclone.lol">motionclone.lol</a></sub></p>
 </td>
 </tr>
 <tr>
