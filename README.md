@@ -8,13 +8,13 @@
 <a href="https://github.com/blixvip/NullMotion"><img src="assets/nullmotion.jpg" width="100%" alt="Null Motion"></a>
 <h3><a href="https://github.com/blixvip/NullMotion">Null Motion</a></h3>
 <p>Plays a finished motion-graphics ad in sync with the rough HyperFrames drafts it grew from, so the work between them is visible. Exports the breakdown as one MP4.</p>
-<p><sub>★ 966 &nbsp;·&nbsp; <a href="https://www.nullmotion.com/">nullmotion.com</a></sub></p>
+<p><sub>★ 976 &nbsp;·&nbsp; <a href="https://www.nullmotion.com/">nullmotion.com</a></sub></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/blixvip/MotionClone"><img src="assets/motionclone.jpg" width="100%" alt="MotionClone"></a>
 <h3><a href="https://github.com/blixvip/MotionClone">MotionClone</a></h3>
 <p>Point it at a reference video and it rebuilds the piece as an editable HyperFrames project, then plays the rebuild against the original so you can see where the timing drifts.</p>
-<p><sub>★ 361 &nbsp;·&nbsp; <a href="https://motionclone.lol">motionclone.lol</a></sub></p>
+<p><sub>★ 364 &nbsp;·&nbsp; <a href="https://motionclone.lol">motionclone.lol</a></sub></p>
 </td>
 </tr>
 <tr>
@@ -22,7 +22,7 @@
 <a href="https://github.com/blixvip/easyedit"><img src="assets/easyedit.jpg" width="100%" alt="easyedit"></a>
 <h3><a href="https://github.com/blixvip/easyedit">easyedit</a></h3>
 <p>Type a movie name, get a fan edit: the film's best speech in animated captions, then a montage cut to the beat. Whisper for transcription, onset detection for the cuts.</p>
-<p><sub>★ 155 &nbsp;·&nbsp; <a href="https://blixvip.com/easyedit">blixvip.com/easyedit</a></sub></p>
+<p><sub>★ 156 &nbsp;·&nbsp; <a href="https://blixvip.com/easyedit">blixvip.com/easyedit</a></sub></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/blixvip/html-anime"><img src="assets/html-anime.jpg" width="100%" alt="html-anime"></a>
@@ -50,6 +50,7 @@
 ### Also
 
 - **[X Media](https://github.com/blixvip/x-media)** — Browse public X media and tweets by username in a local Next.js app. No login, no API key.
+- **[photo-editor](https://github.com/blixvip/photo-editor)** — Local photo editor for memecoin art: offline AI background removal, glowing rim light, 120 procedural backdrops and a one-click launch pack. No uploads, no API keys.
 - **[trading-ui](https://github.com/blixvip/trading-ui)** — The trading layer for shadcn/ui: candlestick and depth charts, order book, DOM ladder, time and sales, order ticket, positions and blotter. Radix primitives, Tailwind tokens, copy-paste registry.
 - **[phonectl](https://github.com/blixvip/phonectl)** — Drives an Android phone from your computer over adb and scrcpy: browser dashboard, CLI, and a build → screenshot → verify loop for agents.
 - **[AI Broadcaster](https://github.com/blixvip/ai-broadcaster)** — Chrome extension that sends one prompt, image, or PDF to several AI chats at once and verifies each one received it.
