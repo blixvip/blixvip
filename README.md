@@ -1,3 +1,11 @@
+## ⭐ Main project: [BLIX](https://blixvip.com)
+
+<a href="https://blixvip.com"><img src="assets/blix-hero.jpg" width="100%" alt="BLIX: AI-powered Solana memecoin terminal"></a>
+
+**[BLIX](https://blixvip.com) is an AI-powered memecoin terminal for Solana.** Every pump.fun launch live, AI coin ratings, narrative tracking, wallet and X tracking, and one-click trading, all on one screen. Trade real SOL or practise in paper mode first.
+
+**[Start trading at blixvip.com →](https://blixvip.com)** &nbsp;·&nbsp; [Public API](https://blixvip.com/api) &nbsp;·&nbsp; [MCP server](https://blixvip.com/mcp) &nbsp;·&nbsp; [Source](https://github.com/blixvip/blixtrade)
+
 ## Projects
 
 <!-- projects:start -->
@@ -8,13 +16,13 @@
 <a href="https://github.com/blixvip/NullMotion"><img src="assets/nullmotion.jpg" width="100%" alt="Null Motion"></a>
 <h3><a href="https://github.com/blixvip/NullMotion">Null Motion</a></h3>
 <p>Plays a finished motion-graphics ad in sync with the rough HyperFrames drafts it grew from, so the work between them is visible. Exports the breakdown as one MP4.</p>
-<p><sub>★ 985 &nbsp;·&nbsp; <a href="https://www.nullmotion.com/">nullmotion.com</a></sub></p>
+<p><sub>★ 986 &nbsp;·&nbsp; <a href="https://www.nullmotion.com/">nullmotion.com</a></sub></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/blixvip/MotionClone"><img src="assets/motionclone.jpg" width="100%" alt="MotionClone"></a>
 <h3><a href="https://github.com/blixvip/MotionClone">MotionClone</a></h3>
 <p>Point it at a reference video and it rebuilds the piece as an editable HyperFrames project, then plays the rebuild against the original so you can see where the timing drifts.</p>
-<p><sub>★ 364 &nbsp;·&nbsp; <a href="https://motionclone.lol">motionclone.lol</a></sub></p>
+<p><sub>★ 367 &nbsp;·&nbsp; <a href="https://motionclone.lol">motionclone.lol</a></sub></p>
 </td>
 </tr>
 <tr>
@@ -22,7 +30,7 @@
 <a href="https://github.com/blixvip/easyedit"><img src="assets/easyedit.jpg" width="100%" alt="easyedit"></a>
 <h3><a href="https://github.com/blixvip/easyedit">easyedit</a></h3>
 <p>Type a movie name, get a fan edit: the film's best speech in animated captions, then a montage cut to the beat. Whisper for transcription, onset detection for the cuts.</p>
-<p><sub>★ 157 &nbsp;·&nbsp; <a href="https://blixvip.com/easyedit">blixvip.com/easyedit</a></sub></p>
+<p><sub>★ 158</sub></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/blixvip/html-anime"><img src="assets/html-anime.jpg" width="100%" alt="html-anime"></a>
@@ -36,13 +44,13 @@
 <a href="https://github.com/blixvip/skills"><img src="assets/skills.jpg" width="100%" alt="skills"></a>
 <h3><a href="https://github.com/blixvip/skills">skills</a></h3>
 <p>The agent skills I use daily, as drop-in SKILL.md folders for Claude Code and Codex.</p>
-<p><sub>★ 4 &nbsp;·&nbsp; <a href="https://blixvip.com/skills">blixvip.com/skills</a></sub></p>
+<p><sub>★ 4</sub></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/blixvip/blixtrade"><img src="assets/blixtrade.jpg" width="100%" alt="blixtrade"></a>
-<h3><a href="https://github.com/blixvip/blixtrade">blixtrade</a></h3>
-<p>Solana memecoin terminal: live pump.fun feed, holder ledgers that separate snipers from bundles, real Jupiter quotes. Ships a public read API and an MCP server.</p>
-<p><sub>★ 2 &nbsp;·&nbsp; <a href="https://trade.blixvip.com/api">trade.blixvip.com/api</a></sub></p>
+<a href="https://github.com/blixvip/blixtrade"><img src="assets/blixtrade.jpg" width="100%" alt="BLIX (blixtrade)"></a>
+<h3><a href="https://github.com/blixvip/blixtrade">BLIX (blixtrade)</a></h3>
+<p>The open-source core of <a href="https://blixvip.com">BLIX</a>, the AI memecoin terminal for Solana: live pump.fun feed, holder ledgers that separate snipers from bundles, real Jupiter quotes, a public read API and an MCP server.</p>
+<p><sub>★ 2 &nbsp;·&nbsp; <a href="https://blixvip.com">blixvip.com</a></sub></p>
 </td>
 </tr>
 </table>
@@ -75,6 +83,7 @@ and TypeScript, with ffmpeg doing the heavy lifting.
 Based in Canada. Reachable at [kaiguy432@gmail.com](mailto:kaiguy432@gmail.com)
 or [@waselyyy](https://x.com/waselyyy).
 
+[blixvip.com](https://blixvip.com) ·
 [motionclone.lol](https://motionclone.lol) ·
 [nullmotion.com](https://www.nullmotion.com/) ·
 [Discord](https://discord.gg/zEB4VjmfSb) ·

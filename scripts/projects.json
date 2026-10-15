@@ -20,9 +20,9 @@
     "blurb": "Turns a scene prompt into a shot sheet, then has a coding agent draw the film in HTML and CSS. No video model — the frame above is code."
   },
   "blixtrade": {
-    "title": "blixtrade",
+    "title": "BLIX (blixtrade)",
     "shot": "assets/blixtrade.jpg",
-    "blurb": "Solana memecoin terminal: live pump.fun feed, holder ledgers that separate snipers from bundles, real Jupiter quotes. Ships a public read API and an MCP server."
+    "blurb": "The open-source core of <a href=\"https://blixvip.com\">BLIX</a>, the AI memecoin terminal for Solana: live pump.fun feed, holder ledgers that separate snipers from bundles, real Jupiter quotes, a public read API and an MCP server."
   },
   "phonectl": {
     "title": "phonectl",
