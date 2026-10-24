@@ -36,7 +36,7 @@
 <a href="https://github.com/blixvip/html-anime"><img src="assets/html-anime.jpg" width="100%" alt="html-anime"></a>
 <h3><a href="https://github.com/blixvip/html-anime">html-anime</a></h3>
 <p>Turns a scene prompt into a shot sheet, then has a coding agent draw the film in HTML and CSS. No video model — the frame above is code.</p>
-<p><sub>★ 137 &nbsp;·&nbsp; <a href="https://blixvip.github.io/html-anime/">blixvip.github.io/html-anime</a></sub></p>
+<p><sub>★ 148 &nbsp;·&nbsp; <a href="https://blixvip.github.io/html-anime/">blixvip.github.io/html-anime</a></sub></p>
 </td>
 </tr>
 <tr>
@@ -58,6 +58,7 @@
 ### Also
 
 - **[X Media](https://github.com/blixvip/x-media)** — Browse public X media and tweets by username in a local Next.js app. No login, no API key.
+- **[stick](https://github.com/blixvip/stick)** — Stick figure animation app.
 - **[photo-editor](https://github.com/blixvip/photo-editor)** — Local photo editor for memecoin art: offline AI background removal, glowing rim light, 120 procedural backdrops and a one-click launch pack. No uploads, no API keys.
 - **[trading-ui](https://github.com/blixvip/trading-ui)** — The trading layer for shadcn/ui: candlestick and depth charts, order book, DOM ladder, time and sales, order ticket, positions and blotter. Radix primitives, Tailwind tokens, copy-paste registry.
 - **[phonectl](https://github.com/blixvip/phonectl)** — Drives an Android phone from your computer over adb and scrcpy: browser dashboard, CLI, and a build → screenshot → verify loop for agents.
