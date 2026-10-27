@@ -6,6 +6,14 @@
 
 **[Start trading at blixvip.com →](https://blixvip.com)** &nbsp;·&nbsp; [Public API](https://blixvip.com/api) &nbsp;·&nbsp; [MCP server](https://blixvip.com/mcp) &nbsp;·&nbsp; [Source](https://github.com/blixvip/blixtrade)
 
+## 🆕 New: [GenMotion](https://github.com/blixvip/GenMotion)
+
+<a href="https://github.com/blixvip/GenMotion"><img src="https://raw.githubusercontent.com/blixvip/GenMotion/main/docs/demo.gif" width="100%" alt="GenMotion demo film, made in GenMotion"></a>
+
+**Type an idea, get a finished motion-graphics video.** GenMotion writes the storyboard, paints every scene with the image model you pick (17 of them: GPT Image, Nano Banana, FLUX, Imagen, plus the top Chinese models Seedream, Qwen-Image, Kling, Wan, Hunyuan and more), animates kinetic type over it and exports a 1080p MP4. Bring your own API keys; zero dependencies.
+
+**[Get GenMotion →](https://github.com/blixvip/GenMotion)** &nbsp;·&nbsp; [v1.0 release](https://github.com/blixvip/GenMotion/releases/tag/v1.0.0)
+
 ## Projects
 
 <!-- projects:start -->
