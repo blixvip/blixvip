@@ -24,13 +24,13 @@
 <a href="https://github.com/blixvip/NullMotion"><img src="assets/nullmotion.jpg" width="100%" alt="Null Motion"></a>
 <h3><a href="https://github.com/blixvip/NullMotion">Null Motion</a></h3>
 <p>Plays a finished motion-graphics ad in sync with the rough HyperFrames drafts it grew from, so the work between them is visible. Exports the breakdown as one MP4.</p>
-<p><sub>★ 1.2k &nbsp;·&nbsp; <a href="https://www.nullmotion.com/">nullmotion.com</a></sub></p>
+<p><sub>★ 1.3k &nbsp;·&nbsp; <a href="https://www.nullmotion.com/">nullmotion.com</a> &nbsp;·&nbsp; <a href="https://github.com/blixvip/NullMotion/issues?q=is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22">2 good first issues</a></sub></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/blixvip/MotionClone"><img src="assets/motionclone.jpg" width="100%" alt="MotionClone"></a>
 <h3><a href="https://github.com/blixvip/MotionClone">MotionClone</a></h3>
 <p>Point it at a reference video and it rebuilds the piece as an editable HyperFrames project, then plays the rebuild against the original so you can see where the timing drifts.</p>
-<p><sub>★ 551 &nbsp;·&nbsp; <a href="https://motionclone.lol">motionclone.lol</a></sub></p>
+<p><sub>★ 552 &nbsp;·&nbsp; <a href="https://motionclone.lol">motionclone.lol</a></sub></p>
 </td>
 </tr>
 <tr>
@@ -38,7 +38,7 @@
 <a href="https://github.com/blixvip/html-anime"><img src="assets/html-anime.jpg" width="100%" alt="html-anime"></a>
 <h3><a href="https://github.com/blixvip/html-anime">html-anime</a></h3>
 <p>Turns a scene prompt into a shot sheet, then has a coding agent draw the film in HTML and CSS. No video model — the frame above is code.</p>
-<p><sub>★ 207 &nbsp;·&nbsp; <a href="https://blixvip.github.io/html-anime/">blixvip.github.io/html-anime</a></sub></p>
+<p><sub>★ 208 &nbsp;·&nbsp; <a href="https://blixvip.github.io/html-anime/">blixvip.github.io/html-anime</a></sub></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/blixvip/easyedit"><img src="assets/easyedit.jpg" width="100%" alt="easyedit"></a>
@@ -63,7 +63,7 @@ test
 web</code></pre>
 <h3><a href="https://github.com/blixvip/GenMotion">GenMotion</a></h3>
 <p>Type an idea, get a finished motion-graphics video. Top Western + Chinese image models (Seedream, Qwen-Image, Kling, FLUX, GPT Image, Imagen...), bring your own API keys.</p>
-<p><sub>★ 3</sub></p>
+<p><sub>★ 4</sub></p>
 </td>
 </tr>
 </table>
