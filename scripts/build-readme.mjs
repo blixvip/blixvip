@@ -4,6 +4,11 @@
 // every run, so the grid reorders itself as the ranking changes. Copy and
 // screenshots for each repository live in projects.json; a repository with no
 // screenshot there falls back to a listing of its real top-level folders.
+//
+// Each cell also advertises how many issues the repository has open under
+// "good first issue", linked to that filter. The daily run keeps the counts
+// honest on their own, so a repository that runs out of starter work stops
+// claiming to have any.
 
 import { readFile, writeFile } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
@@ -15,6 +20,7 @@ const HERE = dirname(fileURLToPath(import.meta.url));
 const README = join(HERE, "..", "README.md");
 const START = "<!-- projects:start -->";
 const END = "<!-- projects:end -->";
+const STARTER_LABEL = "good first issue";
 
 const api = async (path) => {
   const res = await fetch(`https://api.github.com${path}`, {
@@ -48,7 +54,33 @@ async function folders(repo) {
   }
 }
 
-function cell(repo, meta, media) {
+// Open "good first issue" count. A failed search counts as zero rather than
+// breaking the grid, so the worst case is a cell that stays quiet for a day.
+async function starters(repo) {
+  const q = [
+    `repo:${USER}/${repo.name}`,
+    "is:issue",
+    "is:open",
+    `label:"${STARTER_LABEL}"`,
+  ].join(" ");
+  try {
+    const { total_count } = await api(`/search/issues?q=${encodeURIComponent(q)}&per_page=1`);
+    return total_count ?? 0;
+  } catch {
+    return 0;
+  }
+}
+
+function starterLink(repo, count) {
+  if (!count) return "";
+  const url =
+    `https://github.com/${USER}/${repo.name}/issues?q=` +
+    encodeURIComponent(`is:issue is:open label:"${STARTER_LABEL}"`);
+  const label = count === 1 ? "good first issue" : "good first issues";
+  return ` &nbsp;·&nbsp; <a href="${url}">${count} ${label}</a>`;
+}
+
+function cell(repo, meta, media, starterCount) {
   const url = `https://github.com/${USER}/${repo.name}`;
   const title = meta.title ?? repo.name;
   const blurb = meta.blurb ?? repo.description ?? "";
@@ -60,7 +92,7 @@ function cell(repo, meta, media) {
     media.startsWith("<img") ? `<a href="${url}">${media}</a>` : media,
     `<h3><a href="${url}">${title}</a></h3>`,
     `<p>${blurb}</p>`,
-    `<p><sub>★ ${stars(repo.stargazers_count)}${home}</sub></p>`,
+    `<p><sub>★ ${stars(repo.stargazers_count)}${home}${starterLink(repo, starterCount)}</sub></p>`,
     `</td>`,
   ].join("\n");
 }
@@ -84,7 +116,7 @@ for (const repo of top) {
   const media = m.shot
     ? `<img src="${m.shot}" width="100%" alt="${m.title ?? repo.name}">`
     : await folders(repo);
-  cells.push(cell(repo, m, media));
+  cells.push(cell(repo, m, media, await starters(repo)));
 }
 
 const rows = [];
