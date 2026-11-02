@@ -30,7 +30,7 @@
 <a href="https://github.com/blixvip/MotionClone"><img src="assets/motionclone.jpg" width="100%" alt="MotionClone"></a>
 <h3><a href="https://github.com/blixvip/MotionClone">MotionClone</a></h3>
 <p>Point it at a reference video and it rebuilds the piece as an editable HyperFrames project, then plays the rebuild against the original so you can see where the timing drifts.</p>
-<p><sub>★ 551 &nbsp;·&nbsp; <a href="https://motionclone.lol">motionclone.lol</a></sub></p>
+<p><sub>★ 563 &nbsp;·&nbsp; <a href="https://motionclone.lol">motionclone.lol</a></sub></p>
 </td>
 </tr>
 <tr>
@@ -38,13 +38,13 @@
 <a href="https://github.com/blixvip/html-anime"><img src="assets/html-anime.jpg" width="100%" alt="html-anime"></a>
 <h3><a href="https://github.com/blixvip/html-anime">html-anime</a></h3>
 <p>Turns a scene prompt into a shot sheet, then has a coding agent draw the film in HTML and CSS. No video model — the frame above is code.</p>
-<p><sub>★ 210 &nbsp;·&nbsp; <a href="https://blixvip.github.io/html-anime/">blixvip.github.io/html-anime</a> &nbsp;·&nbsp; <a href="https://github.com/blixvip/html-anime/issues?q=is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22">7 good first issues</a></sub></p>
+<p><sub>★ 216 &nbsp;·&nbsp; <a href="https://blixvip.github.io/html-anime/">blixvip.github.io/html-anime</a> &nbsp;·&nbsp; <a href="https://github.com/blixvip/html-anime/issues?q=is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22">7 good first issues</a></sub></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/blixvip/easyedit"><img src="assets/easyedit.jpg" width="100%" alt="easyedit"></a>
 <h3><a href="https://github.com/blixvip/easyedit">easyedit</a></h3>
 <p>Type a movie name, get a fan edit: the film's best speech in animated captions, then a montage cut to the beat. Whisper for transcription, onset detection for the cuts.</p>
-<p><sub>★ 165 &nbsp;·&nbsp; <a href="https://github.com/blixvip/easyedit/issues?q=is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22">10 good first issues</a></sub></p>
+<p><sub>★ 166 &nbsp;·&nbsp; <a href="https://github.com/blixvip/easyedit/issues?q=is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22">10 good first issues</a></sub></p>
 </td>
 </tr>
 <tr>
@@ -57,7 +57,7 @@ test
 web</code></pre>
 <h3><a href="https://github.com/blixvip/GenMotion">GenMotion</a></h3>
 <p>Type an idea, get a finished motion-graphics video. Top Western + Chinese image models (Seedream, Qwen-Image, Kling, FLUX, GPT Image, Imagen...), bring your own API keys.</p>
-<p><sub>★ 6</sub></p>
+<p><sub>★ 7</sub></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/blixvip/skills"><img src="assets/skills.jpg" width="100%" alt="skills"></a>
