@@ -111,7 +111,7 @@ or [@waselyyy](https://x.com/waselyyy).
 [blixvip.com](https://blixvip.com) ·
 [motionclone.lol](https://motionclone.lol) ·
 [nullmotion.com](https://www.nullmotion.com/) ·
-[Discord](https://discord.gg/zEB4VjmfSb) ·
+[Discord](https://discord.gg/wJfHQXfEMM) ·
 [Kick](https://kick.com/blixvip) ·
 [Twitch](https://www.twitch.tv/blixvip)
 
