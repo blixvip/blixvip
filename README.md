@@ -30,13 +30,13 @@ Everything below is open source and takes pull requests. The **[blix open source
 <a href="https://github.com/blixvip/NullMotion"><img src="assets/nullmotion.jpg" width="100%" alt="Null Motion"></a>
 <h3><a href="https://github.com/blixvip/NullMotion">Null Motion</a></h3>
 <p>Plays a finished motion-graphics ad in sync with the rough HyperFrames drafts it grew from, so the work between them is visible. Exports the breakdown as one MP4.</p>
-<p><sub>★ 1.4k &nbsp;·&nbsp; <a href="https://www.nullmotion.com/">nullmotion.com</a> &nbsp;·&nbsp; <a href="https://github.com/blixvip/NullMotion/issues?q=is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22">19 good first issues</a></sub></p>
+<p><sub>★ 1.4k &nbsp;·&nbsp; <a href="https://www.nullmotion.com/">nullmotion.com</a> &nbsp;·&nbsp; <a href="https://github.com/blixvip/NullMotion/issues?q=is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22">23 good first issues</a></sub></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/blixvip/MotionClone"><img src="assets/motionclone.jpg" width="100%" alt="MotionClone"></a>
 <h3><a href="https://github.com/blixvip/MotionClone">MotionClone</a></h3>
 <p>Point it at a reference video and it rebuilds the piece as an editable HyperFrames project, then plays the rebuild against the original so you can see where the timing drifts.</p>
-<p><sub>★ 614 &nbsp;·&nbsp; <a href="https://motionclone.lol">motionclone.lol</a> &nbsp;·&nbsp; <a href="https://github.com/blixvip/MotionClone/issues?q=is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22">18 good first issues</a></sub></p>
+<p><sub>★ 614 &nbsp;·&nbsp; <a href="https://motionclone.lol">motionclone.lol</a> &nbsp;·&nbsp; <a href="https://github.com/blixvip/MotionClone/issues?q=is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22">23 good first issues</a></sub></p>
 </td>
 </tr>
 <tr>
@@ -44,13 +44,13 @@ Everything below is open source and takes pull requests. The **[blix open source
 <a href="https://github.com/blixvip/html-anime"><img src="assets/html-anime.jpg" width="100%" alt="html-anime"></a>
 <h3><a href="https://github.com/blixvip/html-anime">html-anime</a></h3>
 <p>Turns a scene prompt into a shot sheet, then has a coding agent draw the film in HTML and CSS. No video model — the frame above is code.</p>
-<p><sub>★ 261 &nbsp;·&nbsp; <a href="https://blixvip.github.io/html-anime/">blixvip.github.io/html-anime</a> &nbsp;·&nbsp; <a href="https://github.com/blixvip/html-anime/issues?q=is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22">12 good first issues</a></sub></p>
+<p><sub>★ 261 &nbsp;·&nbsp; <a href="https://blixvip.github.io/html-anime/">blixvip.github.io/html-anime</a> &nbsp;·&nbsp; <a href="https://github.com/blixvip/html-anime/issues?q=is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22">16 good first issues</a></sub></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/blixvip/easyedit"><img src="assets/easyedit.jpg" width="100%" alt="easyedit"></a>
 <h3><a href="https://github.com/blixvip/easyedit">easyedit</a></h3>
 <p>Type a movie name, get a fan edit: the film's best speech in animated captions, then a montage cut to the beat. Whisper for transcription, onset detection for the cuts.</p>
-<p><sub>★ 169 &nbsp;·&nbsp; <a href="https://github.com/blixvip/easyedit/issues?q=is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22">13 good first issues</a></sub></p>
+<p><sub>★ 169 &nbsp;·&nbsp; <a href="https://github.com/blixvip/easyedit/issues?q=is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22">17 good first issues</a></sub></p>
 </td>
 </tr>
 <tr>
