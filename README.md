@@ -24,13 +24,13 @@
 <a href="https://github.com/blixvip/NullMotion"><img src="assets/nullmotion.jpg" width="100%" alt="Null Motion"></a>
 <h3><a href="https://github.com/blixvip/NullMotion">Null Motion</a></h3>
 <p>Plays a finished motion-graphics ad in sync with the rough HyperFrames drafts it grew from, so the work between them is visible. Exports the breakdown as one MP4.</p>
-<p><sub>★ 1.3k &nbsp;·&nbsp; <a href="https://www.nullmotion.com/">nullmotion.com</a> &nbsp;·&nbsp; <a href="https://github.com/blixvip/NullMotion/issues?q=is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22">1 good first issue</a></sub></p>
+<p><sub>★ 1.4k &nbsp;·&nbsp; <a href="https://www.nullmotion.com/">nullmotion.com</a> &nbsp;·&nbsp; <a href="https://github.com/blixvip/NullMotion/issues?q=is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22">16 good first issues</a></sub></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/blixvip/MotionClone"><img src="assets/motionclone.jpg" width="100%" alt="MotionClone"></a>
 <h3><a href="https://github.com/blixvip/MotionClone">MotionClone</a></h3>
 <p>Point it at a reference video and it rebuilds the piece as an editable HyperFrames project, then plays the rebuild against the original so you can see where the timing drifts.</p>
-<p><sub>★ 604 &nbsp;·&nbsp; <a href="https://motionclone.lol">motionclone.lol</a></sub></p>
+<p><sub>★ 611 &nbsp;·&nbsp; <a href="https://motionclone.lol">motionclone.lol</a> &nbsp;·&nbsp; <a href="https://github.com/blixvip/MotionClone/issues?q=is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22">15 good first issues</a></sub></p>
 </td>
 </tr>
 <tr>
@@ -38,7 +38,7 @@
 <a href="https://github.com/blixvip/html-anime"><img src="assets/html-anime.jpg" width="100%" alt="html-anime"></a>
 <h3><a href="https://github.com/blixvip/html-anime">html-anime</a></h3>
 <p>Turns a scene prompt into a shot sheet, then has a coding agent draw the film in HTML and CSS. No video model — the frame above is code.</p>
-<p><sub>★ 255 &nbsp;·&nbsp; <a href="https://blixvip.github.io/html-anime/">blixvip.github.io/html-anime</a> &nbsp;·&nbsp; <a href="https://github.com/blixvip/html-anime/issues?q=is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22">7 good first issues</a></sub></p>
+<p><sub>★ 259 &nbsp;·&nbsp; <a href="https://blixvip.github.io/html-anime/">blixvip.github.io/html-anime</a> &nbsp;·&nbsp; <a href="https://github.com/blixvip/html-anime/issues?q=is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22">9 good first issues</a></sub></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/blixvip/easyedit"><img src="assets/easyedit.jpg" width="100%" alt="easyedit"></a>
@@ -57,7 +57,7 @@ tests
 web</code></pre>
 <h3><a href="https://github.com/blixvip/BlendClone">BlendClone</a></h3>
 <p>Turn a reference video into an editable Blender project: AI scene analysis, declarative compiler, side-by-side fidelity scoring, .blend export.</p>
-<p><sub>★ 54</sub></p>
+<p><sub>★ 65 &nbsp;·&nbsp; <a href="https://github.com/blixvip/BlendClone/issues?q=is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22">10 good first issues</a></sub></p>
 </td>
 <td width="50%" valign="top">
 <pre><code>docs
@@ -68,22 +68,25 @@ test
 web</code></pre>
 <h3><a href="https://github.com/blixvip/GenMotion">GenMotion</a></h3>
 <p>Type an idea, get a finished motion-graphics video. Top Western + Chinese image models (Seedream, Qwen-Image, Kling, FLUX, GPT Image, Imagen...), bring your own API keys.</p>
-<p><sub>★ 7</sub></p>
+<p><sub>★ 33 &nbsp;·&nbsp; <a href="https://github.com/blixvip/GenMotion/issues?q=is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22">9 good first issues</a></sub></p>
 </td>
 </tr>
 </table>
 
 ### Also
 
+- **[stick](https://github.com/blixvip/stick)** — Stick: free, open-source stick figure animation software for Windows, Linux and the web. Pose stickman joints, keyframe, add effects, draw, and export MP4/GIF. Opens Pivot Animator and Stick Nodes files. 27 languages.
 - **[skills](https://github.com/blixvip/skills)** — The agent skills I use daily, as drop-in SKILL.md folders for Claude Code and Codex.
 - **[BLIX (blixtrade)](https://github.com/blixvip/blixtrade)** — The open-source core of <a href="https://blixvip.com">BLIX</a>, the AI memecoin terminal for Solana: live pump.fun feed, holder ledgers that separate snipers from bundles, real Jupiter quotes, a public read API and an MCP server.
-- **[stick](https://github.com/blixvip/stick)** — Stick: free, open-source stick figure animation software for Windows, Linux and the web. Pose stickman joints, keyframe, add effects, draw, and export MP4/GIF. Opens Pivot Animator and Stick Nodes files. 27 languages.
 - **[thumbnail-studio](https://github.com/blixvip/thumbnail-studio)** — A minimal Windows workspace for YouTube thumbnails: ChatGPT side by side with your references, 12 design skills, and a one-click template.
 - **[X Media](https://github.com/blixvip/x-media)** — Browse public X media and tweets by username in a local Next.js app. No login, no API key.
-- **[photo-editor](https://github.com/blixvip/photo-editor)** — Local photo editor for memecoin art: offline AI background removal, glowing rim light, 120 procedural backdrops and a one-click launch pack. No uploads, no API keys.
-- **[trading-ui](https://github.com/blixvip/trading-ui)** — The trading layer for shadcn/ui: candlestick and depth charts, order book, DOM ladder, time and sales, order ticket, positions and blotter. Radix primitives, Tailwind tokens, copy-paste registry.
 - **[phonectl](https://github.com/blixvip/phonectl)** — Drives an Android phone from your computer over adb and scrcpy: browser dashboard, CLI, and a build → screenshot → verify loop for agents.
+- **[trading-ui](https://github.com/blixvip/trading-ui)** — The trading layer for shadcn/ui: candlestick and depth charts, order book, DOM ladder, time and sales, order ticket, positions and blotter. Radix primitives, Tailwind tokens, copy-paste registry.
+- **[photo-editor](https://github.com/blixvip/photo-editor)** — Local photo editor for memecoin art: offline AI background removal, glowing rim light, 120 procedural backdrops and a one-click launch pack. No uploads, no API keys.
 - **[AI Broadcaster](https://github.com/blixvip/ai-broadcaster)** — Chrome extension that sends one prompt, image, or PDF to several AI chats at once and verifies each one received it.
+- **[watch-better](https://github.com/blixvip/watch-better)** — Chrome extension for YouTube caption briefings, searchable transcripts, in-panel ChatGPT/Gemini questions, and Smart Skip cuts.
+- **[motionlayer](https://github.com/blixvip/motionlayer)** — Editable motion graphics with asGenerator components, script timing locks, and local rendering.
+- **[discord-youtube-tracker](https://github.com/blixvip/discord-youtube-tracker)** — Discord bot that tracks YouTube creators, caches transcripts, and produces AI summaries.
 
 <!-- projects:end -->
 
