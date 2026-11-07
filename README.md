@@ -16,9 +16,9 @@
 
 ## 💬 Contributing? Start in the Discord
 
-<a href="https://discord.gg/wJfHQXfEMM"><img src="https://img.shields.io/badge/Discord-Join%20the%20open%20source%20community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the blix open source Discord"></a>
+<a href="https://discord.gg/grokbot"><img src="https://img.shields.io/badge/Discord-Join%20the%20open%20source%20community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the blix open source Discord"></a>
 
-Everything below is open source and takes pull requests. The **[blix open source Discord](https://discord.gg/wJfHQXfEMM)** is the one place for all of it: claim an issue, ask how something works, or run an idea past me before you build it. Every repo has issues tagged `good first issue`, and contributors get credited in the release notes.
+Everything below is open source and takes pull requests. The **[blix open source Discord](https://discord.gg/grokbot)** is the one place for all of it: claim an issue, ask how something works, or run an idea past me before you build it. Every repo has issues tagged `good first issue`, and contributors get credited in the release notes.
 
 ## Projects
 
@@ -117,10 +117,25 @@ or [@waselyyy](https://x.com/waselyyy).
 [blixvip.com](https://blixvip.com) ·
 [motionclone.lol](https://motionclone.lol) ·
 [nullmotion.com](https://www.nullmotion.com/) ·
-[Discord](https://discord.gg/wJfHQXfEMM) ·
+[Discord](https://discord.gg/grokbot) ·
 [Kick](https://kick.com/blixvip) ·
 [Twitch](https://www.twitch.tv/blixvip)
 
 <sub>The grid above is rebuilt daily by
 [`scripts/build-readme.mjs`](scripts/build-readme.mjs) — it always shows the six
 repositories with the most stars, in order.</sub>
+
+## Contributors wanted
+
+Small, scoped work is labelled and waiting: [good first issues](https://github.com/blixvip/blixvip/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) name the files to touch and what "done" looks like. Comment to claim one. Pull requests get reviewed within a couple of days, and every contributor is credited in the release notes.
+
+<!-- discord-incentive:start -->
+### 💬 Why join the Discord first
+
+**[discord.gg/grokbot](https://discord.gg/grokbot)** is the one server for every blixvip repo, and it gets you more than a chat window:
+
+- 🟢 **Claim an issue and it is yours.** Say which one in `#contributors` and it is assigned to you, so two people never build the same thing twice.
+- 🏷️ **A contributor role** on the server the moment your first pull request is merged.
+- 🗺️ **A say in what gets built.** The roadmap is argued out there before it turns into issues.
+- 🙋 **A human to ask.** Stuck on setup, or unsure whether an idea is even wanted? Faster than waiting on an issue thread.
+<!-- discord-incentive:end -->
